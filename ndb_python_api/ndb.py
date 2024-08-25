@@ -1,6 +1,6 @@
 import json
 import requests
-from ndb.roles import Roles
+from ndb_python_api.roles import Roles
 
 class NDB:
     def __init__(self, uri):
